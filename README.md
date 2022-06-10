@@ -1,5 +1,7 @@
 # Django-project
 
+Zuri project submission
+
 0\lib\site-packages (20.14.1)
 Requirement already satisfied: filelock<4,>=3.2 in c:\users\user\appdata\local\programs\python\python310\lib\site-packages (from virtualenv) (3.6.0)
 Requirement already satisfied: six<2,>=1.9.0 in c:\users\user\appdata\local\programs\python\python310\lib\site-packages (from virtualenv) (1.16.0)
